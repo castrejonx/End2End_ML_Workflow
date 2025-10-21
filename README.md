@@ -30,3 +30,10 @@ Source: Ames Housing Dataset on Kaggle
 Description: The dataset includes detailed attributes for residential homes sold in Ames, Iowa, between 2006 and 2010.
 Target variable: SalePrice (continuous numeric variable)
 Features: 80+ attributes, including lot size, square footage, number of rooms, construction quality, neighborhood, and more.
+
+Contact
+
+Author: Xochitl Castrejon-Stukes
+GitHub: [Your GitHub Profile URL]
+LinkedIn: [Your LinkedIn URL]
+Email: xochitl@stukes.net
